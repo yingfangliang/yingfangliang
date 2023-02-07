@@ -1,7 +1,7 @@
 ### Hi there, it's Ying-Fang! :relaxed:
 ***
 
-#### I'm a Master of Analytics Candidate at McGill <br>&emsp;&emsp;&emsp;with 3 years of professional experience at Qualcomm as an engineer. :woman_technologist:
+#### I'm a Master of Analytics Candidate at McGill with 3 years of professional experience at Qualcomm as an engineer. :woman_technologist:
 <br>
 I've been working on production efficiency improvement in various industries including semiconductor, aerospace, and apparel fabric. I'm fascinated by finding the logical structure behind real-world issues and getting to the bottom of it to resolve the problems. Knowing and witnessing how data analytics could change the game, I decided to pause my career in Taiwan and explore more in this field here in Montreal (and experience -30°C weather :snowman_with_snow:).
 <br><br>
