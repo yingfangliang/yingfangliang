@@ -1,4 +1,4 @@
-### Hi there, it's Ying-Fang! :relaxed:
+### Bonjour, it's Ying-Fang! :relaxed:
 ***
 
 #### I'm a Master of Analytics Candidate at McGill with 3 years of professional experience at Qualcomm as an engineer. :woman_technologist:
