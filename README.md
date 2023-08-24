@@ -1,4 +1,4 @@
-### Bonjour, it's Ying-Fang! :relaxed:
+### Bonjour, it's Ying-Fang! :relaxed: Check my portfolio <a href="https://yingfangliang.github.io">HERE!</a>
 ***
 
 #### I'm a Master of Analytics student at McGill with 3 years of professional experience at Qualcomm as an engineer. :woman_technologist:
