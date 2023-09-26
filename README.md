@@ -1,12 +1,13 @@
-### Bonjour, it's Ying-Fang! :relaxed: Check my portfolio <a href="https://yingfangliang.github.io">HERE!</a>
+Bonjour, it's Ying-Fang! :relaxed: **Check my portfolio <a href="https://yingfangliang.github.io">HERE!</a>**
 ***
 
-#### I'm a Master of Analytics student at McGill with 3 years of professional experience at Qualcomm as an engineer. :woman_technologist:
-<br>
+I'm a Master of Analytics student at McGill with 3 years of professional experience at Qualcomm as an engineer. :woman_technologist:
+<be><br><br>
+
 I've been working on production efficiency improvement in various industries including semiconductor, aerospace, and apparel fabric. I'm fascinated by finding the logical structure behind real-world issues and getting to the bottom of it to resolve the problems. Knowing and witnessing how data analytics could change the game, I decided to pause my career in Taiwan and explore more in this field here in Montreal (and experience -30°C winter :snowman_with_snow: and noice summer ☀️).
 <br><br>
 
-###### You didn't ask but in case you wanna know ...
+You didn't ask but in case you wanna know ...
 - **Education**
   - McGill **MMA** <sub>2023</sub>
   - National Tsing Hua University **Industrial Engineering** <sub>2019</sub><br><br>
